@@ -1,0 +1,7 @@
+Hello Guys,
+MY Name is Atharva Anil Deo
+I want to push another file to the same repo snaming WAD
+I am learning GIT, GITHUB for my practical exams which will held on 8th of May 2024
+WAD stand for Web Application Development
+My next assingment will be on Docker 
+Docker is vey usefull tool for the Devops Devloper 
