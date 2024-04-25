@@ -1,0 +1,6 @@
+Name : Atharva Anil Deo
+Class :TE-IT 
+Roll.no : 10
+Subject WAD 
+Assignment no 2
+on github and docker
